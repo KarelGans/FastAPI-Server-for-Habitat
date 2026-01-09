@@ -1,0 +1,5 @@
+/annotated_img_logs/*
+
+yoloe-v8l-seg.pt
+
+mobileclip_blt.pt
